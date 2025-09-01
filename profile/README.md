@@ -12,8 +12,14 @@ Un projet de recherche et développement en intelligence artificielle visant à 
   <img src="system.png" alt="banner" width="100%">
 </p>
 
+- [injestion](https://github.com/etisFORsafran/injestion) — Ingestion des données de la supply chain
 - [extraction](https://github.com/etisFORsafran/extraction) — Extraction des données de la supply chain
-- [detectionDB](https://github.com/etisFORsafran/detectionDB) — Détection et structuration des entités métier
+- [detection](https://github.com/etisFORsafran/detection) — Détection et structuration des entités métier
+- [visualisation](https://github.com/etisFORsafran/visualisation) — Visualisation des données de la supply chain
+
+<br>
+
+L'architecture complète du projet est disponible dans le [wiki](https://github.com/etisFORsafran/wiki/cahier-architecture.html)
 
 <br>
 
