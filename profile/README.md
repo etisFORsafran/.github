@@ -6,6 +6,10 @@ Un projet de recherche et développement en intelligence artificielle visant à 
 
 <br>
 
+L'architecture complète du projet est disponible dans le [wiki/architecture](https://github.com/etisFORsafran/wiki/cahier-architecture.html)
+
+<br>
+
 # 🚀 PARTIE I
 
 <p align="center">
@@ -16,10 +20,6 @@ Un projet de recherche et développement en intelligence artificielle visant à 
 - [extraction](https://github.com/etisFORsafran/extraction) — Extraction des données de la supply chain
 - [detection](https://github.com/etisFORsafran/detection) — Détection et structuration des entités métier
 - [visualisation](https://github.com/etisFORsafran/visualisation) — Visualisation des données de la supply chain
-
-<br>
-
-L'architecture complète du projet est disponible dans le [wiki/architecture](https://github.com/etisFORsafran/wiki/cahier-architecture.html)
 
 <br>
 
