@@ -6,7 +6,7 @@ Un projet de recherche et développement en intelligence artificielle visant à 
 
 <br>
 
-L'architecture complète du projet est disponible dans le [wiki/architecture](https://github.com/etisFORsafran/wiki/cahier-architecture.html)
+L'architecture complète du projet est disponible dans le [wiki/architecture](https://github.com/etisFORsafran/wiki/architecture/cahier-architecture.html)
 
 <br>
 
